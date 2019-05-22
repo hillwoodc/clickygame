@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "image": "/assets/images/Blackpanther.png",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "image": "/assets/images/Blackwidow.png",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "image": "/assets/images/Captainamerica.png",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "image": "/assets/images/Captainmarvel.png",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "image": "/assets/images/Hawkeye.png",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "image": "/assets/images/Ironman.png",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "image": "/assets/images/Rocket.png",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "image": "/assets/images/Scarletwitch.png",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "image": "/assets/images/Spiderman.png",
+      "clicked": false
+    },
+    {
+      "id": 10,
+      "image": "/assets/images/Thanos.png",
+      "clicked": false
+    },
+    {
+      "id": 11,
+      "image": "/assets/images/Vision.png",
+      "clicked": false
+    },
+    {
+      "id": 12,
+      "image": "/assets/images/Wolverine.png",
+      "clicked": false
+    }
+  ]
+  
